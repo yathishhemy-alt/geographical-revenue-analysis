@@ -12,7 +12,7 @@
 
 ## Project Objective
 Analyze regional revenue trends and identify top-performing geographical areas.
-
+![Revenue Analysis](images/dashboard1.jpg)
 ## Key Insights
 - Revenue comparison by region
 - Top-performing cities/states
